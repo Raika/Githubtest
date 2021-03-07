@@ -15,4 +15,9 @@ public class testscript : MonoBehaviour
     {
         
     }
+
+    private void A()
+    {
+        
+    }
 }
